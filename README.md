@@ -1,6 +1,6 @@
 # First LLVM in C (Not c++)
 
-Generate object code and IR code of a simple program using LLVM in Pure c.
+Generate object code and IR code of a simple program using LLVM in Pure C.
 
 ## Features
 
