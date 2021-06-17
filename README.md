@@ -4,6 +4,7 @@ Generate object code and IR code of a simple program using LLVM in Pure c.
 
 ## Features
 
+- My best try to well documented
 - Design `strlen(char* s)` function
 - Extern `printf` function
 - Call `printf` function
